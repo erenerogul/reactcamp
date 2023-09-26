@@ -9,7 +9,11 @@
     "axios": "^1.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-scripts": "^2.1.3",
+=======
+    "react-scripts": "5.0.1",
+>>>>>>> e9040286f49f9612f7c6cdc532d418fc3aea721d
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.4",
     "web-vitals": "^2.1.4"
